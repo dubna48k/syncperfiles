@@ -2,13 +2,12 @@
   "version": "2.0",
   "profileId": "mi6zr97mc9414dtg8gn5rzt3bdsqo",
   "profile": {
-    "encryptedPassword": "692ce0b93ccbfd268fb1d7847a30ff1134c89d84816714bd2bb13c9bc1b9797c",
-    "encryptedUsername": "8c42b2676128eaa69ea574e20befa13293d7552c501ccfdb16c68c889a1fdf15f73450a2cbe08077b5fea99890dd483f",
+    "encryptedPassword": "f1d34d7a1b36e0ad58cd8508826f9485c8961a99dca682dc59f5e7b41a9f34f8",
+    "encryptedUsername": "98e2d0070a813c767b64dfb539629096f3e5e94ac1d945be17d477dce3305faeeeb1e3bc1f5fd22b8f4ceff2b3633b5f",
     "id": "mi6zr97mc9414dtg8gn5rzt3bdsqo",
-    "name": "runway app",
-    "passwordIv": "54516d1662db9d0e956470b3",
-    "salt": "df15f4807f08123ef676387c7a4ab5c7",
-    "syncLink": "https://raw.githubusercontent.com/dubna48k/syncperfiles/main/profile-mi6zr97mc9414dtg8gn5rzt3bdsqo.json",
+    "name": "Runway app",
+    "passwordIv": "a65a2fd6dea376c8efc41a99",
+    "salt": "a0ed3f4fb8ed0233aa1ecf8533d3c53d",
     "tools": [
       "Runway"
     ],
@@ -16,8 +15,8 @@
     "urls": [
       "https://app.runwayml.com/login"
     ],
-    "usernameIv": "9ea1ede43b38deea469fe65d"
+    "usernameIv": "fe5b50823a51c3ff2e2cf27e"
   },
   "encryptionKey": "d376f183f09fd9a4baa06216ebc12b4d55c593dbc3d153d2e9b4210b0abe0543",
-  "exportDate": "2025-11-20T05:33:49.811Z"
+  "exportDate": "2025-11-20T05:49:22.952Z"
 }
