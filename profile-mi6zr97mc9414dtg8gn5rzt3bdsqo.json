@@ -8,6 +8,7 @@
     "name": "runway app",
     "passwordIv": "54516d1662db9d0e956470b3",
     "salt": "df15f4807f08123ef676387c7a4ab5c7",
+    "syncLink": "https://raw.githubusercontent.com/dubna48k/syncperfiles/main/profile-mi6zr97mc9414dtg8gn5rzt3bdsqo.json",
     "tools": [
       "Runway"
     ],
@@ -18,5 +19,5 @@
     "usernameIv": "9ea1ede43b38deea469fe65d"
   },
   "encryptionKey": "d376f183f09fd9a4baa06216ebc12b4d55c593dbc3d153d2e9b4210b0abe0543",
-  "exportDate": "2025-11-20T05:30:10.400Z"
+  "exportDate": "2025-11-20T05:33:49.811Z"
 }
